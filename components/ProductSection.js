@@ -16,5 +16,5 @@ export default function ProductSection(props) {
 }
 
 const Section = styled.section`
-    
+    margin: 15vh 0;
 `
