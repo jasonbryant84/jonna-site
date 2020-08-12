@@ -5,7 +5,7 @@ import styled  from 'styled-components'
 
 export default function ImageBar(props) {
     const style = {
-        background: `url("./assets/img/${props.filename}.jpg") no-repeat center center scroll cover`
+        background: `url(./assets/img/${props.filename}.jpg) center 20% / cover no-repeat scroll`
     }
 
     return (
