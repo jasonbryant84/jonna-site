@@ -1,7 +1,12 @@
+@import 'swiper-vars.scss';
+
 html,
 body {
+  margin: 0;
   height: 100%;
-  min-height: 100%;
   font-family: 'Antic Slab', serif;
-  text-align: center;
+
+  #logo {
+    max-width: 60px;
+  }
 }

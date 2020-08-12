@@ -1,5 +1,44 @@
 {
     "oils": [
-        "Eucalyptus", "Rosemary", "Mint"
+        {
+            "product": "Eucalyptus Oil",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },{
+            "product": "Rosemary Oil",
+            "description": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur." 
+        },{
+            "product": "Mint Oil",
+            "description": ""
+        },{
+            "product": "Lavender Oil",
+            "description": ""
+        }
+    ],
+    "soaps": [
+        {
+            "product": "Eucalyptus Soap",
+            "description": ""
+        },{
+            "product": "Orange Blossom Gel",
+            "description": ""
+        },{
+            "product": "Mint Soap",
+            "description": ""
+        },{
+            "product": "Rosemary Soap",
+            "description": ""
+        }
+    ],
+    "lotions": [
+        {
+            "product": "Eucalyptus Lotion",
+            "description": ""
+        },{
+            "product": "Lavender Creme",
+            "description": ""
+        },{
+            "product": "Rose Balm",
+            "description": ""
+        }
     ]
 }
